@@ -17,20 +17,20 @@ Answer: Grove St PATH, Exchange Place, Sip Ave, Hamilton Park and Morris Canal
 
 How does the average trip duration vary across different age groups?
 Answer: Format [Age Group = Average Trip Duration]
-75+	= 49
-18-24	= 12
-55-64 =	9
-35-44	= 9
-25-34	= 9
-45-54	= 8
+75+	= 49 |
+18-24	= 12 |
+55-64 =	9 |
+35-44	= 9 |
+25-34	= 9 |
+45-54	= 8 |
 65-74	= 7
 
 Which age group rents the most bikes?
 Answer: Format [Age Group = Count of Bike ID]
-35-44	= 7697
-25-34	= 4002
-45-54	= 2973
-55-64	= 1447
-65-74	= 615
-75+	= 55
+35-44	= 7697 |
+25-34	= 4002 |
+45-54	= 2973 |
+55-64	= 1447 |
+65-74	= 615 |
+75+	= 55 |
 18-24	= 54
